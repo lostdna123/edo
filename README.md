@@ -1,4 +1,3 @@
-# Uri Gukbap — live site
+# Unpublished
 
-This branch is what GitHub Pages serves at https://lostdna123.github.io/edo/.
-The source lives in `uri-gukbap/` on `claude/wizardly-goodall-ilrf2v`; copy its files here to publish updates.
+The Uri Gukbap site was taken offline. Its source is in `uri-gukbap/` on `claude/wizardly-goodall-ilrf2v`.
