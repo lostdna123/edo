@@ -20,3 +20,7 @@ python3 -m http.server 8080
 - `script.js` — scroll reveal, adaptive nav, mobile menu, contact form (opens the visitor's mail client)
 
 Company details (services, partner tiers, vision/mission, contact info) were gathered from public sources, including indocomniaga.co.id — please verify before publishing.
+
+---
+
+Also in this repo: [`uri-gukbap/`](uri-gukbap/) — website for Uri Gukbap 우리국밥, Gading Serpong.
