@@ -4,6 +4,12 @@ Single-page site for Uri Gukbap, a Korean gukbap restaurant at Ruko Maggiore Gra
 
 Plain HTML/CSS/JS: no build step, no dependencies. The only external requests are Google Fonts and the Google Maps embed.
 
+## Live site
+
+Published with GitHub Pages from the `gh-pages` branch: https://lostdna123.github.io/edo/
+
+To publish changes, copy the contents of this folder to the root of the `gh-pages` branch and push.
+
 ## Run locally
 
 ```bash
@@ -41,5 +47,5 @@ This content was collected from public social posts, so some details could be ou
 - Prices: only "gukbap sets from Rp 70.000" is shown. Add prices for Spicy, Bossam and Hotteok if you want them on the page.
 - Menu descriptions (for example, what comes in the Bossam Set).
 - The map uses a Google Maps search for the restaurant. Swap in the embed link from your Google Business profile for an exact pin.
-- `og:image` is a relative path. Some social platforms need an absolute URL, so change it to the full URL once the site has a domain.
+- `og:image`, `og:url` and the canonical link point at https://lostdna123.github.io/edo/. Update them if you move to your own domain.
 - Real photos: the dish art is illustrated SVG. Photos from @urigukbap can replace it.
